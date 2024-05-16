@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Naga Kanaka Lakshmi</h1>
+<h1 align="center">Hello 👋, I'm Naga Kanaka Lakshmi</h1>
+<div align='center'>
+  <img src='https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif' alt='No' />
+</div>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagalakshmi08&label=Profile%20views&color=0e75b6&style=flat" alt="nagalakshmi08" /> </p>
